@@ -1,0 +1,15 @@
+body
+{
+	text-align: center;
+	background-color: crimson;
+}
+span
+{
+	font-size: 15px;
+	color:white;
+}
+canvas
+{
+	background: black;
+	border-radius: 20px;
+}
